@@ -1,4 +1,5 @@
 ### Hi there 👋
+java script essentials
 
 <!--
 **khushi294/khushi294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
